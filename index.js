@@ -1,5 +1,4 @@
-// const yargs = require("yargs");
-// const { hideBin } = require("yargs/helpers");
+
 const contacts = require("./contacts");
 const argv = require("yargs").argv;
 
